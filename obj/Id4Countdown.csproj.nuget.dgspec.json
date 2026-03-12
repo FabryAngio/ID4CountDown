@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\Id4Countdown\\Id4Countdown.csproj": {}
+    "C:\\repos\\ID4CountDown\\Id4Countdown.csproj": {}
   },
   "projects": {
-    "C:\\repos\\Id4Countdown\\Id4Countdown.csproj": {
+    "C:\\repos\\ID4CountDown\\Id4Countdown.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Id4Countdown\\Id4Countdown.csproj",
+        "projectUniqueName": "C:\\repos\\ID4CountDown\\Id4Countdown.csproj",
         "projectName": "Id4Countdown",
-        "projectPath": "C:\\repos\\Id4Countdown\\Id4Countdown.csproj",
+        "projectPath": "C:\\repos\\ID4CountDown\\Id4Countdown.csproj",
         "packagesPath": "C:\\Users\\fabry\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Id4Countdown\\obj\\",
+        "outputPath": "C:\\repos\\ID4CountDown\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabry\\AppData\\Roaming\\NuGet\\NuGet.Config"
