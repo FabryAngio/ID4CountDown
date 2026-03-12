@@ -26,7 +26,7 @@ namespace Id4Countdown
             }
             catch
             {
-                MessageBox.Show("Inserisci valori validi.");
+                MessageBox.Show("Inserisci valori numerici validi.");
             }
         }
     }
