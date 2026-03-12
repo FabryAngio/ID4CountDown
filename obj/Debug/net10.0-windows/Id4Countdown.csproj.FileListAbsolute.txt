@@ -20,3 +20,4 @@ C:\repos\Id4Countdown\obj\Debug\net10.0-windows\ref\Id4Countdown.dll
 C:\repos\Id4Countdown\obj\Debug\net10.0-windows\InputWindow.baml
 C:\repos\Id4Countdown\obj\Debug\net10.0-windows\InputWindow.g.cs
 C:\repos\Id4Countdown\obj\Debug\net10.0-windows\App.baml
+C:\repos\ID4CountDown\obj\Debug\net10.0-windows\Id4Countdown.sourcelink.json
