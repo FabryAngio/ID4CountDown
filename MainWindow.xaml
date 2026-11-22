@@ -26,16 +26,6 @@
                                FontSize="16"
                                VerticalAlignment="Center"
                                Margin="4,0,0,2"/>
-
-                    <!-- Finti pulsanti finestra -->
-                    <StackPanel Orientation="Horizontal"
-                                HorizontalAlignment="Right"
-                                DockPanel.Dock="Right"
-                                Margin="0,0,4,0">
-                        <Rectangle Width="12" Height="12" Stroke="#808080" Margin="2"/>
-                        <Rectangle Width="12" Height="12" Stroke="#808080" Margin="2"/>
-                        <Rectangle Width="12" Height="12" Stroke="#808080" Margin="2"/>
-                    </StackPanel>
                 </DockPanel>
 
                 <!-- Display countdown -->
