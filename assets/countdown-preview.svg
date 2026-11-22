@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title description">
+  <title id="title">Anteprima del countdown ID4CountDown</title>
+  <desc id="description">Display digitale verde su sfondo nero, con il tempo 00:01:52:41.</desc>
+  <rect x="1" y="1" width="998" height="318" rx="14" fill="#202020" stroke="#50585a" stroke-width="2"/>
+  <path d="M15 1h970a14 14 0 0 1 14 14v25H1V15A14 14 0 0 1 15 1Z" fill="#4c565a"/>
+  <rect x="22" y="59" width="956" height="238" fill="#101010" stroke="#707070" stroke-width="2"/>
+  <text x="34" y="32" fill="#e0e0e0" font-family="Segoe UI, Arial, sans-serif" font-size="17">ID4 Countdown</text>
+  <rect x="35" y="77" width="930" height="202" fill="#000" stroke="#303030" stroke-width="2"/>
+  <text x="500" y="226" fill="#00e600" font-family="Consolas, 'Courier New', monospace" font-size="126" font-weight="bold" letter-spacing="3" text-anchor="middle">00:01:52:41</text>
+</svg>
