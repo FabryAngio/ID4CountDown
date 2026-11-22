@@ -6,8 +6,10 @@ Un semplice countdown per Windows, ispirato al conto alla rovescia di *Independe
 
 ## Anteprima
 
-![Anteprima del countdown ID4CountDown](assets/countdown-preview.svg)
+![Anteprima del countdown ID4CountDown](assets/countdown-preview.png)
 
-## Ispirazione
+## Ispirazione: *Independence Day*
 
-Per un'immagine di riferimento del film, [visualizza la foto di *Independence Day* sul sito fonte](https://www.i400calci.com/wp-content/uploads/2013/02/ID4_mac.jpg).
+![Immagine di *Independence Day*](https://www.i400calci.com/wp-content/uploads/2013/02/ID4_mac.jpg)
+
+Immagine del film da [i400calci.com](https://www.i400calci.com/wp-content/uploads/2013/02/ID4_mac.jpg).
